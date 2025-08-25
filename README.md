@@ -8,3 +8,9 @@ Key Features:
   *Encrypted File Support: Reads encrypted messages from binary files (.bin) for flexible input.
   
   *Decryption Functionality: Decrypts messages and displays both the encrypted (raw) and decrypted content.
+
+Technologies Used:
+
+ *Python 3.x
+
+ *rsa library for cryptographic operations
