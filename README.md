@@ -3,15 +3,23 @@ This project is a Python-based tool that demonstrates asymmetric cryptography us
 
 ## Key Features:
 
-  *Private Key Loading: Reads RSA private keys from PEM files to ensure secure decryption.
+  Private Key Loading: Reads RSA private keys from PEM files to ensure secure decryption.
   
-  *Encrypted File Support: Reads encrypted messages from binary files (.bin) for flexible input.
+  Encrypted File Support: Reads encrypted messages from binary files (.bin) for flexible input.
   
-  *Decryption Functionality: Decrypts messages and displays both the encrypted (raw) and decrypted content.
+  Decryption Functionality: Decrypts messages and displays both the encrypted (raw) and decrypted content.
 
 
 ## Technologies Used:
 
- *Python 3.x
+ Python 3.x
 
- *rsa library for cryptographic operations
+ rsa library for cryptographic operations
+
+ ## Learning Outcomes:
+
+ Understanding the RSA algorithm and asymmetric cryptography concepts.
+
+ Practical experience in handling cryptographic keys and secure file operations.
+
+ Building a complete end-to-end workflow for message encryption and decryption.
