@@ -1,7 +1,7 @@
 # rsa_cryptosystem
 This project is a Python-based tool that demonstrates asymmetric cryptography using the RSA algorithm. The script allows users to securely decrypt messages that were encrypted with a public RSA key. It covers the full workflow of RSA cryptography, including key management, encryption, and decryption.
 
-Key Features:
+##Key Features:
 
   *Private Key Loading: Reads RSA private keys from PEM files to ensure secure decryption.
   
@@ -10,7 +10,7 @@ Key Features:
   *Decryption Functionality: Decrypts messages and displays both the encrypted (raw) and decrypted content.
 
 
-bold{Technologies Used}:
+##Technologies Used:
 
  *Python 3.x
 
